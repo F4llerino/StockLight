@@ -9,7 +9,7 @@ Grün bedeutet, dass die Aktie gekauft werden sollte.
 Gelb bedeutet, dass die Kennzahlen kein eindeutiges Ergebnis liefern
 
 *Warnung! Das Programm sollte nicht alleine herangezogen werden, um Handelsentschiedungen zu treffen. Das Programm ist sehr vereinfacht und nur auf 3 Kennzahlen begrenzt.
-Das Programm dient für mich als erste Übung, um mit APIs zu arbeiten.
+
 
 *******************************
 Funktionsweise
@@ -31,3 +31,4 @@ Anschließend werden durch festgelegte Bedingungen bestimmt, welche Farbe angeze
  Das Programm wurde zu 100% mit Python programmiert.
  Für das GUI wurde Tkinter verwendet.
  Für die Abfrage der Daten wurde die Library yfinance verwendet, die die Daten von Yahoo Finance nutzbar machen soll.
+ Das Programm dient für mich als erste Übung, um mit APIs zu arbeiten.
