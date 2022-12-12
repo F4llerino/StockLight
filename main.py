@@ -36,35 +36,35 @@ def get_ticker():
 def show_red():
     global red_img
 
-    red_img = PhotoImage(file="C:\\Users\\luisf\\PycharmProjects\\StockLight\\images\\Ampel_rot.png")
+    red_img = PhotoImage(file="images\\Ampel_rot.png")
     red_label = Label(main_frame, image=red_img)
     red_label.grid(column=1, row=4, columnspan=2)
 
 
 def show_yellow():
     global yellow_img
-    yellow_img = PhotoImage(file="C:\\Users\\luisf\\PycharmProjects\\StockLight\\images\\Ampel_Gelb.png")
+    yellow_img = PhotoImage(file="images\\Ampel_Gelb.png")
     yellow_label = Label(main_frame, image=yellow_img)
     yellow_label.grid(column=1, row=4, columnspan=2)
 
 
 def show_green():
     global green_img
-    green_img = PhotoImage(file="C:\\Users\\luisf\\PycharmProjects\\StockLight\\images\\Ampel_gruen.png")
+    green_img = PhotoImage(file="images\\Ampel_gruen.png")
     green_label = Label(main_frame, image=green_img)
     green_label.grid(column=1, row=4, columnspan=2)
 
 
 def show_red_yellow():
     global red_yellow_img
-    red_yellow_img = PhotoImage(file="C:\\Users\\luisf\\PycharmProjects\\StockLight\\images\\Ampel_gelb_rot.png")
+    red_yellow_img = PhotoImage(file="images\\Ampel_gelb_rot.png")
     red_yellow_label = Label(main_frame, image=red_yellow_img)
     red_yellow_label.grid(column=1, row=4, columnspan=2)
 
 
 def show_green_yellow():
     global green_yellow_img
-    green_yellow_img = PhotoImage(file="C:\\Users\\luisf\\PycharmProjects\\StockLight\\images\\Ampel_gruen_gelb.png")
+    green_yellow_img = PhotoImage(file="images\\Ampel_gruen_gelb.png")
     green_yellow_label = Label(main_frame, image=green_yellow_img)
     green_yellow_label.grid(column=1, row=4, columnspan=2)
 
