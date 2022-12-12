@@ -14,7 +14,7 @@ Gelb bedeutet, dass die Kennzahlen kein eindeutiges Ergebnis liefern
 *******************************
 Funktionsweise
 *******************************
-Zuerst wird die Eingabe einer Aktien-Kennzeichnung benötigt, wie z.B. "aapl" für Apple oder "dte.de" für die Telekom AG. Die Kennzeichnungen findet man über die Suche bei Yahoo Finance
+Zuerst wird die Eingabe einer Aktien-Kennzeichnung benötigt, wie z.B. "googl" für Google oder "dte.de" für die Telekom AG. Die Kennzeichnungen findet man über die Suche bei Yahoo Finance
 Für die Berechnungen werden die Geschäftszahlen der letzten 3 Jahre herangezogen. Aus diesen wird ein Durchschnitt gebildet, indem die jeweiligen Zahlen der einzelnen Perioden addiert und mit 3 dividiert werden.
 Anschließend werden durch festgelegte Bedingungen bestimmt, welche Farbe angezeigt werden soll.
   Rot: Return on Investment < 5% ; Eigenkapitalquote < 50% ; Liquidität 2. Grades < 80%
