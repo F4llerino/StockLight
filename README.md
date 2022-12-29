@@ -32,3 +32,6 @@ Anschließend werden durch festgelegte Bedingungen bestimmt, welche Farbe angeze
  Für das GUI wurde Tkinter verwendet.
  Für die Abfrage der Daten wurde die Library yfinance verwendet, die die Daten von Yahoo Finance nutzbar machen soll.
  Das Programm dient für mich als erste Übung, um mit APIs zu arbeiten.
+ 
+ Update:
+ Es scheint so als wurde eine Änderung am yfinance-package vorgenommen, weshalb es Probleme bei der Datengewinnung gibt. Hier hätte ich auch besser direkt die Yahoo Finance API verwendet, als den Umweg über das yfinance-package zu wählen.
